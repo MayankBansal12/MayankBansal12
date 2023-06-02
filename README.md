@@ -38,14 +38,13 @@ console.log(greetings);
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-
+##
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankBansal12&theme=prussian" alt="Summary Card" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBansal12&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=400" alt="GitHub Streak" align="left" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankBansal12&theme=outrun" alt="Top Lan by Repo" align="right" />
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBansal12&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBansal12&layout=pie&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Language" />
+</p>
 
 
 
