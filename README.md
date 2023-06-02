@@ -42,7 +42,7 @@ console.log(greetings);
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankBansal12&theme=prussian" alt="Summary Card" /></p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBansal12&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBansal12&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=400" alt="GitHub Streak"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBansal12&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Language" />
 </p>
 
