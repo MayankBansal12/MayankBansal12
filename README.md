@@ -43,7 +43,7 @@ console.log(greetings);
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBansal12&theme=tokyonight-duo&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBansal12&layout=pie&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Language" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBansal12&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Language" />
 </p>
 
 
