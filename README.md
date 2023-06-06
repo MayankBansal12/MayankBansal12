@@ -19,7 +19,7 @@ console.log(greetings);
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
-
+<!-- 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
@@ -36,9 +36,19 @@ console.log(greetings);
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
+  
+  |               |           |
+  |       ---     |    ---    |
+  |💻 | ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C) |
+  |🌐| ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)|
+  |🛢| ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)|
+  |⚙️|![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) |
+  |🔧| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)|
+  
+<br> 
 
-##
+## 📊&nbsp; GitHub Stats
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankBansal12&theme=prussian" alt="Summary Card" /></p>
 
 <p align="center">
