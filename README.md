@@ -11,41 +11,20 @@ console.log(greetings);
 
 <br />
 
-- 🌱 I’m currently brushing up my **Web Dev Skills**, working on freelance projects and practising **DSA in Java**
-- 👯 I’m looking to collaborate on...**Web Design, Development** and related projects
+- 🌱 I’m currently brushing up my **Web Dev Skills** by working on projects.
+- 👯 I’m looking to collaborate on...**Web Design, Development** and related projects.
 - 📫 Social Links:--
-<p>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/SimplerMayank" target="blank"><img src="https://img.shields.io/badge/Follow-on%20Twitter-informational?style=social&logo=twitter" alt="@SimplerMayank" align="center" height="25px" width="150px"/></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mayank-bansal-b14837247/" target="blank"><img src="https://img.shields.io/badge/Connect-on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="MayankBansal12" align="center" height="25px" width="180px"/></a></p>
-
+<p>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/SimplerMayank" target="blank"><img src="https://img.shields.io/badge/Follow-on%20X%20(Twitter)-informational?style=social&logo=X" alt="@SimplerMayank" align="center" height="25px" width="170px"/></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mayank-bansal-b14837247/" target="blank"><img src="https://img.shields.io/badge/Connect-on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="MayankBansal12" align="center" height="25px" width="180px"/></a> &nbsp; &nbsp; <a href="https://mayankbansal.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Mayank12" align="center" height="25px" /></a></p>
 <br> 
 
-## 🛠 &nbsp;Tech Stack
-<!-- 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
-  
+## 🛠 &nbsp;Tech Stack  
   | | |
   | --- | --- |
-  |💻 | ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C) |
-  |🌐| ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)|
-  |🛢| ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)|
-  |⚙️|![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) |
-  |🔧| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)|
-  
+  |💻 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+  |🌐| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailWind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+  |🛢| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+  |⚙️|![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+  |🔧| ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
 <br> 
 
 ## 📊&nbsp; GitHub Stats
